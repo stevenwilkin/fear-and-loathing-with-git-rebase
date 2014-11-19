@@ -1,6 +1,6 @@
 # Fear and Loathing with git rebase
 
-Git is not Subversion, we are free to rewrite history any way we see fit which is import when producing _atomic commits_ and when we want our sequence of commits to tell a story.
+Git is not Subversion, we are free to rewrite history any way we see fit which is important when producing _atomic commits_ and when we want our sequence of commits to tell a story.
 
 Many people are either unaware that this is possible or are afraid to do but the basics are straightforward to understand.
 
