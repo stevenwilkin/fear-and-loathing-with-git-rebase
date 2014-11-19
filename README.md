@@ -4,6 +4,8 @@ Git is not Subversion, we are free to rewrite history any way we see fit which i
 
 Many people are either unaware that this is possible or are afraid to do but the basics are straightforward to understand.
 
+In this talk I demonstrate my 5 most common use cases for `git rebase`. Each scenario has a corresponding bash script which sets up a git repository under `repo/` ready to show the technique in action.
+
 
 ## fixup
 
